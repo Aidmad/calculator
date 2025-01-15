@@ -2,4 +2,4 @@
 calculator app
 
 
-![Homepage Screenshot](screenshots/calculator.png)
+![Homepage Screenshot](calculator.png)
